@@ -357,7 +357,11 @@ section.special, article.special {
 header p {
   color: rgba(255, 255, 255, 0.5);
   position: relative;
-  margin: 0 0 1.5em 0; }
+  margin: 0 0 1.5em 0;
+  width: 50%;
+  color: #9DA1A3;
+  font-style: italic;
+}
 
 header h2 + p {
   font-size: 1.25em;
